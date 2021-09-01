@@ -1,10 +1,10 @@
----
+-AKRZONE--
 title: GitHub Marketplace Developer Agreement
-redirect_from:
+redirect_from:akrzone.business.com
   - /articles/github-marketplace-developer-agreement
 versions:
   fpt: '*'
-topics:
+topics:online market app
   - Policy
   - Legal
 ---
